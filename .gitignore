@@ -1,0 +1,7 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+src/greet_me1/__pycache__/__init__.cpython-314.pyc
+src/greet_me1/__pycache__/happy.cpython-314.pyc
+dist/greet_me1-0.1.8-py3-none-any.whl
+dist/greet_me1-0.1.8.tar.gz
