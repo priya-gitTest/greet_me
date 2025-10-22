@@ -8,3 +8,5 @@ dist/greet_me1-0.1.8.tar.gz
 dist/greet_me1-0.1.9-py3-none-any.whl
 dist/greet_me1-0.1.9.tar.gz
 .gitignore
+dist/greet_me1-0.1.11-py3-none-any.whl
+dist/greet_me1-0.1.11.tar.gz
