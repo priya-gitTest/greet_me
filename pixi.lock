@@ -171,8 +171,8 @@ packages:
   requires_python: '>=3.9'
 - pypi: ./
   name: greet-me1
-  version: 0.1.8
-  sha256: 9e2d992880ff75576d82866476abae31eba9d614fbd619781c00c7c4a7dd8635
+  version: 0.1.9
+  sha256: c421cb5d549f4a237de7727adff9a9c39f9082687ef239a2ba18fc4820921064
   requires_python: '>=3.11'
   editable: true
 - pypi: https://files.pythonhosted.org/packages/9f/cb/18326d2d89ad3b0dd143da971e77afd1e6ca6674f1b1c3df4b6bec6279fc/id-1.5.0-py3-none-any.whl
